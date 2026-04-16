@@ -1,0 +1,16 @@
+{
+  "name": "ហ្គេមអប់រំកុមារ Sambath Sb",
+  "short_name": "រៀនអក្សរ",
+  "description": "កម្មវិធីរៀនអក្សរខ្មែរ និងគណិតវិទ្យាសម្រាប់កុមារ",
+  "start_url": "Index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5673/5673459.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
